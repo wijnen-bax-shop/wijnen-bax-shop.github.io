@@ -4,6 +4,7 @@
   <button
     class="buy-button snipcart-add-item"
     data-item-quantity="1"
+    data-item-has-taxes-included="true"
     data-item-id="{{ product.identifier }}"
     data-item-name="{{ product.name }}"
     data-item-price="{{ product.price }}"
@@ -29,4 +30,3 @@
   Buy digital copy (JPG) (${{ product.price | minus: 20 }})
 </button>
 {% endif %}
-
