@@ -3,6 +3,7 @@ identifier: Bolyki02
 name: Ster van Eger - 2019
 price: 7.5
 image: /assets/images/bolyki02.png
+weight: 1500
 ---
 De Eger Star met een vrolijke geur en rijke smaak uit de Középbérc en Hajdúhegy
 wijngaarden. Royal Maiden, Sauvignon Blanc, Linden Leaf en Rhine Riesling werden
