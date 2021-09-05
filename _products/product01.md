@@ -7,3 +7,4 @@ image: /assets/images/bolyki01.png
 Geurige, vrolijke, zilverkleurige, frisse wijn met goed bewaarde zuren, zelfs tijdens de
 warme vintage, met bloemige, fruitige tonen van de variëteit. Korte rijping in een stalen
 tank, licht slokje met meerdere smaken.[Meer info](https://www.wijnen-bax.be/services/Bolyki01/)
+ 
