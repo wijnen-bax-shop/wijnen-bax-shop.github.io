@@ -5,5 +5,7 @@
     <p class="product__description">{{ product.content | remove: '<p>' | remove: '</p>' }}</p>
     {% include product-definition.html %}
   </div>
+  <a href="https://www.wijnen-bax.be">
   <img src="{{ product.image }}" alt="{{ product.name }} product image" class="product__image">
+  </a>
 </div>
