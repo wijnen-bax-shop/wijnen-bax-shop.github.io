@@ -4,6 +4,9 @@
 
 layout: default
 ---
+Welkom op de webshop van Hungarian Wines Bax.
+Alle details van onze wijnen kan u terugvinden op onze website.
+
 {% for product in site.products %}
   {% include product.html %}
 {% endfor %}
