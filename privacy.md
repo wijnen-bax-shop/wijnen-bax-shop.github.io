@@ -1,10 +1,8 @@
 ---
-title: Privacy Policy
+title: PRIVACY VERKLARING
 layout: contact
 bodyClass: page-contact
 ---
-
-##PRIVACY VERKLARING
 
 Wij hechten bij Hungarian Wines Bax veel belang aan de bescherming van jouw persoonsgegevens en het respect voor jouw privacy. In deze privacyverklaring geven we graag een helder en transparant overzicht van hoe wij omgaan met jouw persoonsgegevens.
 
@@ -23,7 +21,7 @@ het versturen van nieuwsbrieven, mailings en uitnodigingen (toestemming betrokke
 het uitvoeren van de administratie in verband met onze samenwerking
 Hoe verwerken wij jouw persoonsgegevens?
 
-##ALGEMEEN
+ALGEMEEN
 
 de verwerkte gegevens worden beperkt tot die gegevens, die we minimaal nodig hebben voor de doeleinden waarvoor ze worden verwerkt
 we vragen jouw toestemming als wij die nodig hebben voor de verwerking van jouw persoonsgegevens
@@ -36,7 +34,7 @@ Op onze website worden persoonsgegevens verzameld via het contactformulier.  Hie
 Op onze website gebruiken we cookies. Meer informatie hierover vind je in onze cookie policy.
 De website bevat hyperlinks naar websites van andere partijen. Het is mogelijk dat websites van andere partijen ook hyperlinks bevatten naar onze website. Hungarian Wines Bax is niet verantwoordelijk voor het privacybeleid van die andere partijen en het gebruik van cookies op hun websites.
 
-##Welke persoonsgegevens verzamelen wij?
+Welke persoonsgegevens verzamelen wij?
 
 persoonlijke identiteitsgegevens: naam, voornaam, adres, telefoonnummer, gsm-nummer, e-mail, bedrijfsnaam en jouw btw-nummer.
 Bewaartermijn van de persoonsgegevens
@@ -55,11 +53,11 @@ het drukken van huisstijldrukwerk e.d.
 Met deze partijen hebben wij de nodige afspraken gemaakt om de veiligheid van jouw persoonsgegevens te waarborgen. Wij geven nooit persoonsgegevens door aan andere partijen waarmee we geen verwerkersovereenkomst hebben afgesloten.
 
 
-##Wijziging privacyverklaring
+Wijziging privacyverklaring
 
 Hungarian Wines Bax kan de privacyverklaring wijzigen. Mocht er een wijziging gebeuren dan zullen we hiervan melding maken op onze website.
 
-##Beveiliging van de persoonsgegevens
+Beveiliging van de persoonsgegevens
 
 Wij nemen de passende technische en organisatorische maatregelen om jouw persoonsgegevens te beschermen tegen onrechtmatige verwerking waaronder:
 alle personen die namens Hungarian Wines Bax van jouw gegevens kennis kunnen nemen, zijn gehouden aan geheimhouding daarvan; al onze medewerkers zijn geïnformeerd over het belang van de bescherming van persoonsgegevens
@@ -73,9 +71,9 @@ Jouw rechten omtrent je gegevens
 
 U heeft het recht om op elk moment gratis kennis te nemen van uw persoonsgegevens en van het gebruik dat wij van die persoonsgegevens maken. U heeft het recht om ons te verzoeken uw persoonsgegevens te verbeteren, aan te vullen of te verwijderen. U mag in een aantal gevallen opgesomd in de GDPR ook vragen om de verwerking van uw Persoonsgegevens te beperken. U heeft het recht om zich te verzetten tegen de verwerking van uw persoonsgegevens als u daar ernstige en legitieme redenen voor hebt die onze noodzaak om je gegevens te verwerken overstijgen. U heeft ook steeds het recht om zich te verzetten tegen het gebruik van persoonsgegevens voor doeleinden van direct marketing, zelfs zonder daarvoor een reden te moeten aangeven. U beschikt over het recht om uw Persoonsgegevens in digitale en leesbare vorm op te vragen en/of aan andere verantwoordelijken over te laten dragen aan een andere dienstverlener van uw keuze. Voor zover onze verwerking gebaseerd is op uw voorafgaande toestemming, heeft u het recht om die toestemming in te trekken. U kan uw rechten uitoefenen per e-mail naar bax@live.be.
 
-##Klachten?
+Klachten?
 Mocht je een klacht hebben over de verwerking van jouw persoonsgegevens, dan vragen wij om meteen contact met ons op te nemen.  Je hebt ook steeds het recht een klacht in te dienen bij de Gegevensbeschermingsautoriteit. Dit is de toezichthoudende autoriteit op het gebied van privacybescherming, Drukpersstraat 35, 1000 Brussel, Tel +32 (0)2 274 48 00, e-mail: contact@apd-gba.be
 
-##Wijziging privacyverklaring
+Wijziging privacyverklaring
 
 Hungarian Wines Bax kan zijn privacyverklaring wijzigen. Van deze wijziging zullen we een aankondiging doen op onze website. Het is aangewezen om deze privacyverklaring regelmatig na te lezen op eventuele wijzigingen.
