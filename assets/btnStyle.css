@@ -59,37 +59,37 @@
 }
 
 .btn-primary {
-  background: #84b1ed;
-  color: #84b1ed;
-  border: 1px solid #84b1ed;
+  background: #E5261F;
+  color: #f8faff;
+  border: 1px solid #E5261F;
 }
 
 .btn-primary:before,
 .btn-primary:after {
-  background: #84b1ed;
-  color: #84b1ed;
+  background: #E5261F;
+  color: #f8faff;
 }
 
 .btn-primary:hover {
-  background: #84b1ed;
-  color: #84b1ed;
+  background: #E5261F;
+  color: #f8faff;
 }
 
 .btn-warning {
   background: #f9a11b;
-  color: #f9a11b;
+  color: #3a3a3a;
   border: 1px solid #f9a11b;
 }
 
 .btn-warning:before,
 .btn-warning:after {
   background: #f9a11b;
-  color: #f9a11b;
+  color: #3a3a3a;
 }
 
 .btn-warning:hover {
   background: #f9a11b;
-  color: #f9a11b;
+  color: #3a3a3a;
 }
 
 .btn-success {
