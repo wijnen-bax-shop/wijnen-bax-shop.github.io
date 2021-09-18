@@ -8,3 +8,5 @@ weight: 1500
 Ook dit jaar een goed beheerde mix van oud kapitaal uit de Eger Central Wage. Zoete
 kersen, aalbessen en aardbeien. Klassieke reductieve school, vrolijke, goed
 smakende slok, weinig mineraliteit in geur en smaak.
+
+Klik op de naam voor meer info.

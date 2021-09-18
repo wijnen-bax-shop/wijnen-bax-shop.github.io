@@ -9,4 +9,4 @@ Geurige, vrolijke, zilverkleurige, frisse wijn met goed bewaarde zuren, zelfs ti
 warme vintage, met bloemige, fruitige tonen van de variëteit. Korte rijping in een stalen
 tank, licht slokje met meerdere smaken.  
 
-Klik op de naam voor meer info.  
+*Klik op de naam voor meer info.* 

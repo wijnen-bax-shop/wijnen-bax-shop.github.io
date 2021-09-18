@@ -9,3 +9,5 @@ Kékfrankos, blauburger en pinot noir zijn het grootste deel, maar alle soorten 
 wijnmakerij te vinden zijn, zijn erin te vinden. Zure kers, zwarte kers, lichte, sappige,
 zomerse rode wijn met rijke kruiden van blauwe frank en blauburger. Lekkere, goed
 drinkbare wijn met een medium body.
+
+Klik op de naam voor meer info.
