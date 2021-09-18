@@ -9,4 +9,4 @@ Goudgele kleur met gemiddelde intensiteit. Het aroma combineert gedroogd fruit,
 honing, citrus en vlierbessen. Smaakt met zoete, ronde zuren, rijke smaak, rijp, sappig
 fruit, lange afdronk. Goede balans, een heel lief lindeblad.
 
-Klik op de naam voor meer info.
+*Klik op de naam voor meer info.*

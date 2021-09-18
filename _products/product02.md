@@ -11,4 +11,4 @@ gefermenteerd in gekoelde containers en vervolgens gebotteld na een korte rijpin
 een goed aandeel van blending. Bloemige, citrusachtige geur met slokjes wit
 vruchtvlees en een minerale afdronk.  
 
-Klik op de naam voor meer info.
+*Klik op de naam voor meer info.*

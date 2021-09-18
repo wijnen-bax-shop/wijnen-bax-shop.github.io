@@ -9,4 +9,4 @@ Rijke wijn: rokerig, eiken en bessen tegelijk. Vrolijk label, goedaardig, rijke 
 een tank, spontaan gegist, 500 jaar gerijpt in nieuwe en gebruikte eikenhouten vaten
 gedurende anderhalf jaar. Ongefilterd, vurig, rijk.
 
-Klik op de naam voor meer info.
+*Klik op de naam voor meer info.*

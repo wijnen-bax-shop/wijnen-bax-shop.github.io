@@ -10,4 +10,4 @@ wijnmakerij te vinden zijn, zijn erin te vinden. Zure kers, zwarte kers, lichte,
 zomerse rode wijn met rijke kruiden van blauwe frank en blauburger. Lekkere, goed
 drinkbare wijn met een medium body.
 
-Klik op de naam voor meer info.
+*Klik op de naam voor meer info.*

@@ -12,4 +12,4 @@ bramen, bosbessen, marsepein; smaak van kersen, rode bessen. Het smaakte vol,
 maar het gevoel van lichtheid zwaait rond, zijn fluweelzachte tannine voert zijn smaak
 lange tijd weg.
 
-Klik op de naam voor meer info.
+*Klik op de naam voor meer info.*

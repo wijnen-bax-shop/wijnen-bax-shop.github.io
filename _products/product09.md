@@ -8,4 +8,4 @@ weight: 1500
 Een middelgrote, sterk zure wijn met een bijzonder fijnkorrelige, goede tannine. In zijn
 diepe, rijpe aroma ontmoeten rode bessen en kruiden elkaar.
 
-Klik op de naam voor meer info.
+*Klik op de naam voor meer info.*

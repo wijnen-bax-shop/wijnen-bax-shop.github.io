@@ -10,4 +10,4 @@ bosvruchten, zwarte kersen, vulkanisch-kalkhoudende grond, tabak. Het wordt
 gekenmerkt door een evenwichtige wijn, bovengemiddelde body, medium tannines,
 alcohol en ronde zuren met een lange afdronk.
 
-Klik op de naam voor meer info.
+*Klik op de naam voor meer info.*

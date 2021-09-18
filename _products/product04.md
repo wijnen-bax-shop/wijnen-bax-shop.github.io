@@ -9,4 +9,4 @@ Ook dit jaar een goed beheerde mix van oud kapitaal uit de Eger Central Wage. Zo
 kersen, aalbessen en aardbeien. Klassieke reductieve school, vrolijke, goed
 smakende slok, weinig mineraliteit in geur en smaak.
 
-Klik op de naam voor meer info.
+*Klik op de naam voor meer info.*
