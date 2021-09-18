@@ -9,4 +9,6 @@ De Eger Star met een vrolijke geur en rijke smaak uit de Középbérc en Hajdúh
 wijngaarden. Royal Maiden, Sauvignon Blanc, Linden Leaf en Rhine Riesling werden
 gefermenteerd in gekoelde containers en vervolgens gebotteld na een korte rijping en
 een goed aandeel van blending. Bloemige, citrusachtige geur met slokjes wit
-vruchtvlees en een minerale afdronk.
+vruchtvlees en een minerale afdronk.  
+
+Klik op de naam voor meer info.
