@@ -5,13 +5,13 @@ bodyClass: page-contact
 ---
 
 Algemene Voorwaarden
-elliebillie.be is een onderdeel/winkel/website van BV CE&S Consult.
+Hungarian Wines Bax is een onderdeel/winkel/website van Michael Bax.
 
 Artikel 1: Algemene bepalingen
 
-De e-commerce website van CE&S Consult, een BV met maatschappelijke zetel te Breendonkstraat 316A, 2830 Willebroek, BE0521979863, tel 0473/95.41.08, email info@elliebillie.be en IBAN BE70 0688 9688 1225,  hierna ‘leverancier’ biedt haar klanten de mogelijkheid om de producten uit haar webwinkel online aan te kopen.
+De e-commerce website van Bax Michael, Grote Molenweg 270, 2940 Stabroek, BE0, tel 0473/81.83.26, email bax@live.be en IBAN BE70 0688 9688 1225,  hierna ‘leverancier’ biedt haar klanten de mogelijkheid om de producten uit haar webwinkel online aan te kopen.
 
-Onderhavige Algemene Voorwaarden zijn van toepassing op elke bestelling die geplaatst wordt door een bezoeker van deze e-commerce website (“Klant”). Bij het plaatsen van een bestelling via de webwinkel van elliebillie.be moet de Klant deze Voorwaarden uitdrukkelijk aanvaarden, waarmee hij instemt met de toepasselijkheid van deze Voorwaarden, met uitsluiting van alle andere voorwaarden. Bijkomende voorwaarden van de Klant worden uitgesloten, behoudens wanneer deze voorafgaandelijk, schriftelijk en uitdrukkelijk door BV CE&S Consult aanvaard zijn.
+Onderhavige Algemene Voorwaarden zijn van toepassing op elke bestelling die geplaatst wordt door een bezoeker van deze e-commerce website (“Klant”). Bij het plaatsen van een bestelling via de webwinkel van Hungarian Wines Bax moet de Klant deze Voorwaarden uitdrukkelijk aanvaarden, waarmee hij instemt met de toepasselijkheid van deze Voorwaarden, met uitsluiting van alle andere voorwaarden. Bijkomende voorwaarden van de Klant worden uitgesloten, behoudens wanneer deze voorafgaandelijk, schriftelijk en uitdrukkelijk door Hungarian Wines Bax aanvaard zijn.
 
 Artikel 2: Prijs
 
@@ -19,12 +19,12 @@ Alle vermelde prijzen zijn uitgedrukt in EURO, steeds inclusief BTW en alle ande
 Indien leverings-, reservatie- of administratieve kosten worden aangerekend, wordt dit apart vermeld.
 De opgave van prijs slaat uitsluitend op de artikelen zoals het woordelijk wordt omschreven. De bijhorende foto’s zijn decoratief bedoeld en kunnen elementen bevatten die niet inbegrepen zijn in de prijs.
 
-elliebillie kan enkel betalingen via de betaalmodules op de elliebillie website aanvaarden.
+Hungarian Wines Bax kan enkel betalingen via de betaalmodules op de Hungarian Wines Bax website aanvaarden.
 Om een veilige online betaling en de veiligheid van je persoonsgegevens te waarborgen, worden de transactiegegevens versleuteld met SSL technologie over internet verstuurd. Om met SSL te betalen heb je geen speciale software nodig. Je herkent een veilige SSL-verbinding aan het “slotje” in de onderste statusbalk van je browser.
 
 Artikel 3: Aanbod
 
-Ondanks het feit dat de online catalogus en de e-commerce website met de grootst mogelijke zorgvuldigheid worden samengesteld, is het toch mogelijk dat de aangeboden informatie onvolledig is, materiële fouten bevat, of niet up-to-date is. Kennelijke vergissingen of fouten in het aanbod binden elliebillie niet. elliebillie is wat de juistheid en volledigheid van de aangeboden informatie slechts gehouden tot een middelenverbintenis en is in geen geval aansprakelijk ingeval van manifeste materiële fouten, zet- of drukfouten.
+Ondanks het feit dat de online catalogus en de e-commerce website met de grootst mogelijke zorgvuldigheid worden samengesteld, is het toch mogelijk dat de aangeboden informatie onvolledig is, materiële fouten bevat, of niet up-to-date is. Kennelijke vergissingen of fouten in het aanbod binden Hungarian Wines Bax niet. Hungarian Wines Bax is wat de juistheid en volledigheid van de aangeboden informatie slechts gehouden tot een middelenverbintenis en is in geen geval aansprakelijk ingeval van manifeste materiële fouten, zet- of drukfouten.
 
 Wanneer de Klant specifieke vragen heeft over bv. maten, kleur, beschikbaarheid, leveringstermijn of leveringswijze, verzoeken wij de Klant om vooraf contact op te nemen met onze klantendienst.
 Het aanbod geldt steeds zolang de voorraad strekt en kan te allen tijde worden aangepast of ingetrokken door elliebellie.
@@ -32,80 +32,66 @@ elliebellie kan niet aansprakelijk gesteld worden voor het niet beschikbaar zijn
 
 Artikel 4: Online aankopen
 
-Een overeenkomst komt slechts tot stand na acceptatie van uw bestelling door elliebillie. elliebillie is gerechtigd bestellingen te weigeren dan wel bepaalde voorwaarden aan de levering te verbinden, tenzij uitdrukkelijk anders bepaald. Indien een bestelling niet wordt geaccepteerd, deelt elliebillie dit mee binnen 14 werkdagen na ontvangst van de bestelling.
-Deze overeenkomst bevat alle tussen de klant en elliebillie gemaakte afspraken en treedt in de plaats van alle eerder gemaakte overeenkomsten, regelingen en/of afspraken tussen de klant en elliebillie.
+Een overeenkomst komt slechts tot stand na acceptatie van uw bestelling door Hungarian Wines Bax. Hungarian Wines Bax is gerechtigd bestellingen te weigeren dan wel bepaalde voorwaarden aan de levering te verbinden, tenzij uitdrukkelijk anders bepaald. Indien een bestelling niet wordt geaccepteerd, deelt Hungarian Wines Bax dit mee binnen 14 werkdagen na ontvangst van de bestelling.
+Deze overeenkomst bevat alle tussen de klant en Hungarian Wines Bax gemaakte afspraken en treedt in de plaats van alle eerder gemaakte overeenkomsten, regelingen en/of afspraken tussen de klant en Hungarian Wines Bax.
 
-De administratie van elliebillie geldt, behoudens tegenbewijs, als bewijs van de door de klant aan elliebillie verstrekte opdrachten en gedane betalingen en van door elliebillie verrichte leveringen. elliebillie erkent dat elektronische communicatie als bewijs kan dienen. Door het accepteren van de voorwaarden erkent de klant dit eveneens.
+De administratie van Hungarian Wines Bax geldt, behoudens tegenbewijs, als bewijs van de door de klant aan Hungarian Wines Bax verstrekte opdrachten en gedane betalingen en van door Hungarian Wines Bax verrichte leveringen. Hungarian Wines Bax erkent dat elektronische communicatie als bewijs kan dienen. Door het accepteren van de voorwaarden erkent de klant dit eveneens.
 
-De ontvangstbevestiging vermeldt in ieder geval de volgende informatie: een omschrijving van het product dat door de klant gekocht is en het aantal door de klant gekochte producten; de prijs van het product; klantgegevens als naam, factuuradres, adres waar het product naar toe gestuurd wordt en e-mailadres van de klant; het ordernummer van de overeenkomst; het e-mailadres en telefoonnummer van elliebillie, waar de klant met vragen omtrent de bestelling terecht kan.
+De ontvangstbevestiging vermeldt in ieder geval de volgende informatie: een omschrijving van het product dat door de klant gekocht is en het aantal door de klant gekochte producten; de prijs van het product; klantgegevens als naam, factuuradres, adres waar het product naar toe gestuurd wordt en e-mailadres van de klant; het ordernummer van de overeenkomst; het e-mailadres en telefoonnummer van Hungarian Wines Bax, waar de klant met vragen omtrent de bestelling terecht kan.
 
 Als een aanbod slechts een beperkte geldigheidsduur heeft of onderworpen is aan bepaalde voorwaarden, vermelden we dit uitdrukkelijk in ons aanbod.
 
-Alle goederen worden geleverd op het door de klant bij bestelling gegeven leveringsadres. Er wordt bij het plaatsen van de bestelling minstens 2 keer gevraagd om de adresgegevens na te kijken. Wanneer er bij de bestelling toch nog een foutief of onvolledig verzendadres wordt opgegeven en de zending is teruggekeerd naar elliebillie dienen er opnieuw de afgesproken verzendingskosten betaald te worden als de klant de goederen alsnog wenst te ontvangen. Klant kan de goederen ook kosteloos afhalen na afspraak. Wanneer de goederen niet terugkeren naar elliebillie dient de gehele order opnieuw geplaatst te worden.
+Alle goederen worden geleverd op het door de klant bij bestelling gegeven leveringsadres. Er wordt bij het plaatsen van de bestelling minstens 2 keer gevraagd om de adresgegevens na te kijken. Wanneer er bij de bestelling toch nog een foutief of onvolledig verzendadres wordt opgegeven en de zending is teruggekeerd naar Hungarian Wines Bax dienen er opnieuw de afgesproken verzendingskosten betaald te worden als de klant de goederen alsnog wenst te ontvangen. Klant kan de goederen ook kosteloos afhalen na afspraak. Wanneer de goederen niet terugkeren naar Hungarian Wines Bax dient de gehele order opnieuw geplaatst te worden.
 
 De opgegeven levertijden gelden vanaf het moment van ontvangst van betaling door de klant.
-Als elliebillie niet tijdig kan leveren, verwittigt zij de klant altijd voor het verstrijken van de voorziene leveringstermijn. Indien dit niet gebeurt, kan de klant kosteloos afzien van zijn bestelling. In dat geval betaalt elliebillie de klant uiterlijk binnen 60 dagen na ontbinding terug.
+Als Hungarian Wines Bax niet tijdig kan leveren, verwittigt zij de klant altijd voor het verstrijken van de voorziene leveringstermijn. Indien dit niet gebeurt, kan de klant kosteloos afzien van zijn bestelling. In dat geval betaalt Hungarian Wines Bax de klant uiterlijk binnen 60 dagen na ontbinding terug.
 
-elliebillie doet er alles aan om de goederen zo correct en veilig mogelijk te verpakken.     
-Tevens kan elliebillie niet verantwoordelijk worden gesteld voor enige gevolgschade wegens laattijdige levering of niet-levering door de transporteur die de onderneming heeft aangesteld.
+Hungarian Wines Bax doet er alles aan om de goederen zo correct en veilig mogelijk te verpakken.     
+Tevens kan Hungarian Wines Bax niet verantwoordelijk worden gesteld voor enige gevolgschade wegens laattijdige levering of niet-levering door de transporteur die de onderneming heeft aangesteld.
 
 Artikel 5: Levering en uitvoering van de overeenkomst
 
 Tenzij anders overeengekomen of uitdrukkelijk anders bepaald, worden de goederen aan de woonplaats van de Klant geleverd binnen 7 dagen na ontvangst van de bestelling.
-Elke zichtbare beschadiging en/of kwalitatieve tekortkoming van een artikel of andere tekortkoming bij de levering, moeten door de Klant onverwijld en binnen de 48 uur na levering worden gemeld aan elliebillie.
+Elke zichtbare beschadiging en/of kwalitatieve tekortkoming van een artikel of andere tekortkoming bij de levering, moeten door de Klant onverwijld en binnen de 48 uur na levering worden gemeld aan Hungarian Wines Bax.
 
 Onze verzendingen gebeuren steeds op ons risico. U hoeft zich dus geen zorgen te maken om goederen die verloren gaan in de post. Als u ons echter goederen terugzendt binnen de 14 dagen na aankoop omdat u ze liever niet wil houden, bent u verantwoordelijk voor het transport en de bijhorende kosten, tenzij anders overeengekomen.
 
 Artikel 6: Eigendomsvoorbehoud
 
-De geleverde artikelen blijven tot op het moment van gehele betaling door de Klant, de exclusieve eigendom van elliebillie.
-De Klant verbindt er zich toe zo nodig derden op het eigendomsvoorbehoud van elliebillie te wijzen, bv. aan eenieder die op de nog niet geheel betaalde artikelen beslag zou komen leggen.
+De geleverde artikelen blijven tot op het moment van gehele betaling door de Klant, de exclusieve eigendom van Hungarian Wines Bax.
+De Klant verbindt er zich toe zo nodig derden op het eigendomsvoorbehoud van Hungarian Wines Bax te wijzen, bv. aan eenieder die op de nog niet geheel betaalde artikelen beslag zou komen leggen.
 
 Artikel 7: Herroepingsrecht
 
-De bepalingen van dit artikel gelden enkel voor Klanten die in hun hoedanigheid van consument artikelen online aankopen bij elliebillie.
+De bepalingen van dit artikel gelden enkel voor Klanten die in hun hoedanigheid van consument artikelen online aankopen bij Hungarian Wines Bax.
 
 Indien het herroepingsrecht van toepassing is:
 De Klant heeft het recht om binnen een termijn van 14 kalenderdagen zonder opgave van redenen de overeenkomst te herroepen.
 De herroepingstermijn verstrijkt 14 kalenderdagen na de dag van de sluiting van de overeenkomst.
 
-Om het herroepingsrecht uit te oefenen, moet de Klant aan BV CE&S consult, Breendonkstraat 316A 2830 Willebroek via een ondubbelzinnige verklaring (bv. schriftelijk per post of e-mail op de hoogte stellen van zijn beslissing de overeenkomst te herroepen.
+Om het herroepingsrecht uit te oefenen, moet de Klant aan Hungarian Wines Bax via een ondubbelzinnige verklaring (bv. schriftelijk per post of e-mail op de hoogte stellen van zijn beslissing de overeenkomst te herroepen.
 Als de Klant van deze mogelijkheid gebruik maakt zullen wij de Klant onverwijld op een duurzame gegevensdrager (bv. per e-mail) een ontvangstbevestiging van zijn herroeping sturen.
-
-“Om je herroepingsrecht uit te oefenen, kan je ook gebruik maken van het hieronder
-vermelde modelformulier. Je kan dit formulier versturen naar info@elliebillie.be
-
-“MODELFORMULIER VOOR HERROEPING
-(dit formulier alleen invullen en terugzenden als u de overeenkomst wilt herroepen) –
-Aan elliebillie.be, Breendonkstraat 316A 2830 Willebroek – info@elliebillie.be :
-– Ik/Wij (*) deel/delen (*) u hierbij mede dat ik/wij (*) onze overeenkomst betreffende de verkoop van de volgende goederen/levering van de volgende dienst (*) herroep/herroepen (*)
-– Besteld op (*)/Ontvangen op (*)
-– Naam/Namen consument(en)
-– Adres consument(en)
-– Handtekening van consument(en) (alleen wanneer dit formulier op papier wordt ingediend)
-– Datum
-(*) Doorhalen wat niet van toepassing is.””
 
 Om de herroepingstermijn na te leven moet de Klant zijn mededeling betreffende zijn uitoefening van het herroepingsrecht verzenden voordat de herroepingstermijn is verstreken.
 
-De Klant moet de goederen onverwijld, doch in ieder geval niet later dan 14 kalenderdagen na de dag waarop hij zijn beslissing om de overeenkomst te herroepen aan elliebillie heeft meegedeeld, terugzenden of overhandigen aan BV CE&S consult, Breendonkstraat 316A 2830 Willebroek. De Klant is op tijd als hij de goederen terugstuurt voordat de termijn van 14 kalenderdagen is verstreken.
+De Klant moet de goederen onverwijld, doch in ieder geval niet later dan 14 kalenderdagen na de dag waarop hij zijn beslissing om de overeenkomst te herroepen aan Hungarian Wines Bax heeft meegedeeld, terugzenden of overhandigen aan Hungarian Wines Bax, Grote Molenweg 270, 2940 Stabroek. De Klant is op tijd als hij de goederen terugstuurt voordat de termijn van 14 kalenderdagen is verstreken.
 
 De directe kosten van het terugzenden van de goederen komen voor rekening van de Klant.
 
-Indien het teruggestuurde product op een of andere manier in waarde verminderd is, behoudt elliebillie zich het recht voor om de Klant aansprakelijk te stellen en schadevergoeding te eisen voor elke waardevermindering van de goederen die het gevolg is van het gebruik van de goederen door de Klant dat verder gaat dan nodig is om de aard, de kenmerken en de werking van de goederen vast te stellen.
+Indien het teruggestuurde product op een of andere manier in waarde verminderd is, behoudt Hungarian Wines Bax zich het recht voor om de Klant aansprakelijk te stellen en schadevergoeding te eisen voor elke waardevermindering van de goederen die het gevolg is van het gebruik van de goederen door de Klant dat verder gaat dan nodig is om de aard, de kenmerken en de werking van de goederen vast te stellen.
 
-Indien de Klant de overeenkomst herroept, zal elliebillie alle tot op dat moment van de Klant ontvangen betalingen, exclusief de standaard leveringskosten, aan de Klant terugbetalen binnen maximum 14 kalenderdagen nadat elliebillie op de hoogte is gesteld van de beslissing van de Klant om de overeenkomst te herroepen. Bij verkoopovereenkomsten kan elliebillie wachten met de terugbetaling totdat hij alle goederen heeft teruggekregen, of totdat de Klant heeft aangetoond dat hij de goederen heeft teruggezonden, naar gelang welk tijdstip eerst valt.
+Indien de Klant de overeenkomst herroept, zal Hungarian Wines Bax alle tot op dat moment van de Klant ontvangen betalingen, exclusief de standaard leveringskosten, aan de Klant terugbetalen binnen maximum 14 kalenderdagen nadat Hungarian Wines Bax op de hoogte is gesteld van de beslissing van de Klant om de overeenkomst te herroepen. Bij verkoopovereenkomsten kan Hungarian Wines Bax wachten met de terugbetaling totdat hij alle goederen heeft teruggekregen, of totdat de Klant heeft aangetoond dat hij de goederen heeft teruggezonden, naar gelang welk tijdstip eerst valt.
 
-Eventuele extra kosten ten gevolge van de keuze van de Klant voor een andere wijze van levering dan de door elliebillie geboden goedkoopste standaard levering worden niet terugbetaald.
+Eventuele extra kosten ten gevolge van de keuze van de Klant voor een andere wijze van levering dan de door Hungarian Wines Bax geboden goedkoopste standaard levering worden niet terugbetaald.
 
-Elliebillie betaalt de Klant terug met hetzelfde betaalmiddel als waarmee de Klant de oorspronkelijke transactie heeft verricht, tenzij de Klant uitdrukkelijk anderszins heeft ingestemd; in ieder geval zullen de Klant voor zulke terugbetaling geen kosten in rekening worden gebracht.
+Hungarian Wines Bax betaalt de Klant terug met hetzelfde betaalmiddel als waarmee de Klant de oorspronkelijke transactie heeft verricht, tenzij de Klant uitdrukkelijk anderszins heeft ingestemd; in ieder geval zullen de Klant voor zulke terugbetaling geen kosten in rekening worden gebracht.
 
 Artikel 8: Garantie
 
 Krachtens de wet van 21 september 2004 betreffende de bescherming van de consumenten bij verkoop van consumptiegoederen heeft de consument wettelijke rechten. Deze wettelijke garantie geldt vanaf de datum van levering aan de eerste eigenaar. Elke commerciële garantie laat deze rechten onverminderd.
 
 Om een beroep te doen op de garantie, moet de Klant een aankoopbewijs kunnen voorleggen. Klanten wordt aangeraden om de oorspronkelijke verpakking van de goederen te bewaren.
-Voor artikelen die online werden aangekocht en bij de Klant thuis zijn afgeleverd, dient de Klant contact op te nemen met de elliebillie klantendienst en het artikel op zijn kosten terug te bezorgen aan elliebillie.
+Voor artikelen die online werden aangekocht en bij de Klant thuis zijn afgeleverd, dient de Klant contact op te nemen met de Hungarian Wines Bax klantendienst en het artikel op zijn kosten terug te bezorgen aan Hungarian Wines Bax.
 
 De (commerciële en/of wettelijke) garantie is nooit van toepassing op defecten die ontstaan ten gevolge van ongelukken, verwaarlozing, valpartijen, gebruik van het artikel in strijd met doel waarvoor het ontworpen werd, het niet naleven van de gebruiksinstructies of handleiding, aanpassingen of wijzigingen aan het artikel, hardhandig gebruik, slecht onderhoud, of elk ander abnormaal of incorrect gebruik.
 
@@ -115,11 +101,11 @@ Indien het defect of gebrek zich manifesteert binnen de zes maanden na de leveri
 
 Artikel 9: Klantendienst
 
-De klantendienst van elliebillie is bereikbaar via de contactpagina, via e-mail op info@elliebillie.be of per post op het volgende adres Breendonkstraat 316A 2830 Willebroek. Eventuele klachten kunnen hieraan gericht worden.
+De klantendienst van Hungarian Wines Bax is bereikbaar via e-mail op bax@live.be of per post op het volgende adres Grote Molenweg 270, 2940 Stabroek. Eventuele klachten kunnen hieraan gericht worden.
 
 Artikel 10: Sancties voor niet-betaling
 
-Onverminderd de uitoefening van andere rechten waarover elliebillie beschikt, is de Klant ingeval van niet- of laattijdige betaling vanaf de datum van de wanprestatie van rechtswege en zonder aanmaning een intrest van 10% per jaar verschuldigd op het niet-betaalde bedrag. Bovendien is de Klant van rechtswege en zonder aanmaning een forfaitaire schadeloosstelling verschuldigd van 10% op het betrokken bedrag, met een minimum van 25 euro per factuur.
+Onverminderd de uitoefening van andere rechten waarover Hungarian Wines Bax beschikt, is de Klant ingeval van niet- of laattijdige betaling vanaf de datum van de wanprestatie van rechtswege en zonder aanmaning een intrest van 10% per jaar verschuldigd op het niet-betaalde bedrag. Bovendien is de Klant van rechtswege en zonder aanmaning een forfaitaire schadeloosstelling verschuldigd van 10% op het betrokken bedrag, met een minimum van 25 euro per factuur.
 
 
 Artikel 11: Privacy
