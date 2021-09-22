@@ -1,6 +1,6 @@
 ---
 identifier: Bolyki11
-name: Egri Sauvingon Blanc - 2020
+name: Egri Sauvignon Blanc - 2020
 price: 7.5
 image: /assets/images/bolyki11.png
 weight: 1500
