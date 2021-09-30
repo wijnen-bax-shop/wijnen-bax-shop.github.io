@@ -1,13 +1,13 @@
 <div class="product">
   <div class="product__information">
-    <a href="https://www.wijnen-bax.be/services/{{ product.identifier }}">
+    <a href="https://www.wijnen-bax.be/products/{{ product.identifier }}">
     <h2 class="product__title">{{ product.name }}</h2>
     </a>
     <img src="{{ product.image }}" alt="{{ product.name }} product image" class="product__image">
     <p class="product__description">{{ product.content | remove: '<p>' | remove: '</p>' }}</p>
     {% include product-definition.html %}
   </div>
-  <a href="https://www.wijnen-bax.be/services/{{ product.identifier }}">
+  <a href="https://www.wijnen-bax.be/products/{{ product.identifier }}">
   <img src="{{ product.image }}" alt="{{ product.name }} product image" class="product__image">
   </a>
 </div>
