@@ -9,7 +9,7 @@ Hungarian Wines Bax is een onderdeel/winkel/website van Michael Bax.
 
 Artikel 1: Algemene bepalingen
 
-De e-commerce website van Bax Michael, Grote Molenweg 270, 2940 Stabroek, BE0732589035, tel 0473/81.83.26, email bax@live.be en IBAN BE70 0688 9688 1225,  hierna ‘leverancier’ biedt haar klanten de mogelijkheid om de producten uit haar webwinkel online aan te kopen.
+De e-commerce website van Bax Michael, Grote Molenweg 270, 2940 Stabroek, BE0732589035, tel 0473/81.83.26, email bax@live.be en IBAN BE92979148702823,  hierna ‘leverancier’ biedt haar klanten de mogelijkheid om de producten uit haar webwinkel online aan te kopen.
 
 Onderhavige Algemene Voorwaarden zijn van toepassing op elke bestelling die geplaatst wordt door een bezoeker van deze e-commerce website (“Klant”). Bij het plaatsen van een bestelling via de webwinkel van Hungarian Wines Bax moet de Klant deze Voorwaarden uitdrukkelijk aanvaarden, waarmee hij instemt met de toepasselijkheid van deze Voorwaarden, met uitsluiting van alle andere voorwaarden. Bijkomende voorwaarden van de Klant worden uitgesloten, behoudens wanneer deze voorafgaandelijk, schriftelijk en uitdrukkelijk door Hungarian Wines Bax aanvaard zijn.
 
