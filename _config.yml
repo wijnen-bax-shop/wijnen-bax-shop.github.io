@@ -52,3 +52,7 @@ plugins:
 
 collections:
   - products
+  - bolyki
+  - kolbasz
+  - geszler
+  - kokeny

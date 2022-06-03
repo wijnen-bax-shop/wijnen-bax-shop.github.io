@@ -7,6 +7,12 @@ layout: default
 ## Welkom op de webshop van Hungarian Wines Bax.  
 ### Alle details van onze producten kan u terugvinden op onze website [hier](https://www.wijnen-bax.be).
 
-{% for product in site.products %}
-  {% include product.html %}
-{% endfor %}
+### Maak een keuze uit onze geselecteerde wijnhuizen:
+
+[![Bolyki](/images/features/Bolyki.jpg)](/bolyki/)  
+[![Geszler](/images/features/Geszler.png)](/geszler/)
+[![Kokeny](/images/features/Kokeny.png)](/kokeny/)
+
+### Of neem een kijkje tussen onze exclusief geselecteerde vleeswaren:
+
+[![Vleeswaren](/images/features/vleeswaren.jpeg)](/kolbasz/)
