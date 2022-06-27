@@ -1,7 +1,7 @@
 ---
 identifier: Kolbasz02
 name: Huisgerookte kolbász - pittig
-price: 10
+price: 16,5
 image: /assets/images/Kolbasz2.jpg
 weight: 750
 ---
