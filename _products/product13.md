@@ -1,6 +1,6 @@
 ---
 identifier: Bolyki13
-name: Easy Dreams - Champagne
+name: Easy Dreams - Pezsgő
 price: 14.5
 image: /assets/images/bolyki13.png
 weight: 1500
